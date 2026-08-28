@@ -1,2 +1,2 @@
-## ejercicio 6 Tabla con Combinación de Celdas
-Construir una tabla con encabezado y cuerpo. Usar propiedades para combinar celdas en filas y columnas.
+## ejercicio 7 Iframe Navegable
+Insertar un iframe que muestre en el mapa la ubicación del Teatro Colón. Crear una lista de enlaces que se abran dentro del iframe.
