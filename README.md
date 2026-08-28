@@ -1,2 +1,3 @@
-## Vínculos Internos y Externos
-Crear una lista de enlaces: uno que apunte a una url, otro que abra el correo electrónico, y otro que navegue a una sección interna de la misma página.
+## ejercicio 4 Imágenes con Atributos
+Insertar dos imágenes: una desde internet y otra desde una carpeta local. 
+Usar los atributos para describirlas y redimensionarlas correctamente.
