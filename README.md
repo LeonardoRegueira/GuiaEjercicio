@@ -1,2 +1,2 @@
-## ejercicio 5 Listas HTML
-Crear tres tipos de listas: una desordenada (ul), una ordenada (ol) y una de definición (dl) con al menos dos términos y sus descripciones.
+## ejercicio 6 Tabla con Combinación de Celdas
+Construir una tabla con encabezado y cuerpo. Usar propiedades para combinar celdas en filas y columnas.
